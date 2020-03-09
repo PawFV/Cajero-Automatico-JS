@@ -1,0 +1,16 @@
+    .Aceptar {
+  color: green;
+}
+
+.Aceptar:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.title {
+  text-shadow: 1px 0px 10px #a42828;
+  text-align: center;
+  color:#5C0801;
+  font-family: sans-serif;
+  font-weight: ;
+}
